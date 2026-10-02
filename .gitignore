@@ -1,0 +1,39 @@
+# Secrets
+.env
+secrets/
+google-service-account.json
+
+# Databases / persistent data
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# ChromaDB
+chromadb/
+
+# n8n data
+n8n_data/
+
+# Caddy data
+caddy_data/
+caddy_config/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# Logs
+*.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

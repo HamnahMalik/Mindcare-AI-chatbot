@@ -1,0 +1,6 @@
+n8n.aiforge.tech {
+    reverse_proxy n8n:5678
+}
+mindcare.aiforge.tech {
+    reverse_proxy mindcare-api:8000
+}

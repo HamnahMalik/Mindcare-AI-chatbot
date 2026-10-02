@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+openai
+gspread
+google-auth
+langchain
+langchain-community
+langchain-openai
+chromadb
+langchain-chroma
